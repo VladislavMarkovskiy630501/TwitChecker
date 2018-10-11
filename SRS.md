@@ -16,10 +16,11 @@ TwitChecker - приложение, которое позволяет польз
 
 2.2 Интерфейс пользователя
 Окно авторизации.
+
 ![](https://github.com/VladislavMarkovskiy630501/TwitChecker/blob/master/Mocups/New%20Mockup%202_2.png)
 
-
 Главное окно приложения.
+
 ![](https://github.com/VladislavMarkovskiy630501/TwitChecker/blob/master/Mocups/New%20Mockup%202.png)
 
 2.3 Характеристики пользователей
