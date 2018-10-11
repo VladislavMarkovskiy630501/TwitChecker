@@ -18,6 +18,7 @@ TwitChecker - приложение, которое позволяет польз
 Окно авторизации.
 ![](https://github.com/VladislavMarkovskiy630501/TwitChecker/blob/master/Mocups/New%20Mockup%202_2.png)
 
+
 Главное окно приложения.
 ![](https://github.com/VladislavMarkovskiy630501/TwitChecker/blob/master/Mocups/New%20Mockup%202.png)
 
